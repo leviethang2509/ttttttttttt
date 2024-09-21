@@ -146,8 +146,8 @@
                     <div class="box-name-product">
                         <div class="name-product">CTY FBT</div>
                         <div id="Prict-prod" class="price-product">
-                            <del>$2000</del>
-                            <span>--</span>
+                            <del></del>
+                            <span>$2000</span>
                             <div class="buttom-1">
                                 <button type="submit">
                                     <i class="fa-solid fa-cart-plus"></i>
@@ -158,6 +158,229 @@
                     </div>
                 </div>
             </div>
+            <div class="new-product">
+                <div class="all-product">
+                    <a href="" style="text-decoration:none;">
+                        <div class="new-img-product">
+                            <img id="Pic-1" src="./img/OIP.jpg">
+                            <div class="box-sell">QUẢN TRỊ MẠNG</div>
+                            <div class="all-box-icon">
+                                <i class="fa-regular fa-heart"></i>
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                        <div class="contents-new-product">
+                            <div class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                            <div class="view-product">(4 Views)</div>
+                        </div>
+                    </a>
+                    <div class="box-name-product">
+                        <div class="name-product">CTY FBT</div>
+                        <div id="Prict-prod" class="price-product">
+                            <del></del>
+                            <span>$2000</span>
+                            <div class="buttom-1">
+                                <button type="submit">
+                                    <i class="fa-solid fa-cart-plus"></i>
+                                    <span>Apply Now</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="new-product">
+                <div class="all-product">
+                    <a href="" style="text-decoration:none;">
+                        <div class="new-img-product">
+                            <img id="Pic-1" src="./img/OIP.jpg">
+                            <div class="box-sell">QUẢN TRỊ MẠNG</div>
+                            <div class="all-box-icon">
+                                <i class="fa-regular fa-heart"></i>
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                        <div class="contents-new-product">
+                            <div class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                            <div class="view-product">(4 Views)</div>
+                        </div>
+                    </a>
+                    <div class="box-name-product">
+                        <div class="name-product">CTY FBT</div>
+                        <div id="Prict-prod" class="price-product">
+                            <del></del>
+                            <span>$2000</span>
+                            <div class="buttom-1">
+                                <button type="submit">
+                                    <i class="fa-solid fa-cart-plus"></i>
+                                    <span>Apply Now</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="new-product">
+                <div class="all-product">
+                    <a href="" style="text-decoration:none;">
+                        <div class="new-img-product">
+                            <img id="Pic-1" src="./img/OIP.jpg">
+                            <div class="box-sell">QUẢN TRỊ MẠNG</div>
+                            <div class="all-box-icon">
+                                <i class="fa-regular fa-heart"></i>
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                        <div class="contents-new-product">
+                            <div class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                            <div class="view-product">(4 Views)</div>
+                        </div>
+                    </a>
+                    <div class="box-name-product">
+                        <div class="name-product">CTY FBT</div>
+                        <div id="Prict-prod" class="price-product">
+                            <del></del>
+                            <span>$2000</span>
+                            <div class="buttom-1">
+                                <button type="submit">
+                                    <i class="fa-solid fa-cart-plus"></i>
+                                    <span>Apply Now</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="new-product">
+                <div class="all-product">
+                    <a href="" style="text-decoration:none;">
+                        <div class="new-img-product">
+                            <img id="Pic-1" src="./img/OIP.jpg">
+                            <div class="box-sell">QUẢN TRỊ MẠNG</div>
+                            <div class="all-box-icon">
+                                <i class="fa-regular fa-heart"></i>
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                        <div class="contents-new-product">
+                            <div class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                            <div class="view-product">(4 Views)</div>
+                        </div>
+                    </a>
+                    <div class="box-name-product">
+                        <div class="name-product">CTY FBT</div>
+                        <div id="Prict-prod" class="price-product">
+                            <del></del>
+                            <span>$2000</span>
+                            <div class="buttom-1">
+                                <button type="submit">
+                                    <i class="fa-solid fa-cart-plus"></i>
+                                    <span>Apply Now</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="new-product">
+                <div class="all-product">
+                    <a href="" style="text-decoration:none;">
+                        <div class="new-img-product">
+                            <img id="Pic-1" src="./img/OIP.jpg">
+                            <div class="box-sell">QUẢN TRỊ MẠNG</div>
+                            <div class="all-box-icon">
+                                <i class="fa-regular fa-heart"></i>
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                        <div class="contents-new-product">
+                            <div class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                            <div class="view-product">(4 Views)</div>
+                        </div>
+                    </a>
+                    <div class="box-name-product">
+                        <div class="name-product">CTY FBT</div>
+                        <div id="Prict-prod" class="price-product">
+                            <del></del>
+                            <span>$2000</span>
+                            <div class="buttom-1">
+                                <button type="submit">
+                                    <i class="fa-solid fa-cart-plus"></i>
+                                    <span>Apply Now</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="new-product">
+                <div class="all-product">
+                    <a href="" style="text-decoration:none;">
+                        <div class="new-img-product">
+                            <img id="Pic-1" src="./img/OIP.jpg">
+                            <div class="box-sell">QUẢN TRỊ MẠNG</div>
+                            <div class="all-box-icon">
+                                <i class="fa-regular fa-heart"></i>
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                        <div class="contents-new-product">
+                            <div class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                            <div class="view-product">(4 Views)</div>
+                        </div>
+                    </a>
+                    <div class="box-name-product">
+                        <div class="name-product">CTY FBT</div>
+                        <div id="Prict-prod" class="price-product">
+                            <del></del>
+                            <span>$2000</span>
+                            <div class="buttom-1">
+                                <button type="submit">
+                                    <i class="fa-solid fa-cart-plus"></i>
+                                    <span>Apply Now</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <!-- Thêm nhiều sản phẩm khác ở đây -->
         </div>
     </div>
