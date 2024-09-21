@@ -75,7 +75,7 @@
         </div>
     </div>
     <div class="banner">
-            <img id="pic"src="Picture/slider-4.jpg" alt="">
+            <img id="pic"src="img/slider-4.jpg" alt="">
             <div class="in-content">
                 <div class="tran-box">
                     <div class="title">Tìm Việc Không Khó</div>
